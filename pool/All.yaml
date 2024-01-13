@@ -58,3 +58,4 @@ proxies:
 - {name: 🇮🇱 以色列 - V2Link, server: host-058.crazyspeed.xyz, port: 19005, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39afc216-4268-4cf5-9a5e-96f062eb7c01, tfo: false, udp: true}
 - {name: 🇨🇭 瑞士 - V2Link, server: host-059.crazyspeed.xyz, port: 19006, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39afc216-4268-4cf5-9a5e-96f062eb7c01, tfo: false, udp: true}
 - {name: 🇵🇱 波兰 - V2Link, server: host-060.crazyspeed.xyz, port: 19008, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39afc216-4268-4cf5-9a5e-96f062eb7c01, tfo: false, udp: true}
+- {name: 🇷🇺 俄罗斯 - V2Link, server: host-061.crazyspeed.xyz, port: 19009, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 39afc216-4268-4cf5-9a5e-96f062eb7c01, tfo: false, udp: true}
