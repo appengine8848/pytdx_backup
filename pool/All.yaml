@@ -58,5 +58,6 @@ proxies:
 - {name: 🇦🇪 Dubai - V2Link, server: host-0054.v2fastlink.com, port: 20071, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a52ceef-53cc-4f22-9a38-677de58427a4, tfo: false, udp: true}
 - {name: 🇹🇷 Turkey - V2Link, server: host-055.v2fastlink.com, port: 19001, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a52ceef-53cc-4f22-9a38-677de58427a4, tfo: false, udp: true}
 - {name: 🇵🇰 Pakistan - V2Link, server: host-056.v2fastlink.com, port: 19002, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a52ceef-53cc-4f22-9a38-677de58427a4, tfo: false, udp: true}
+- {name: Bermuda - V2Link, server: host-060.v2fastlink.com, port: 19008, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a52ceef-53cc-4f22-9a38-677de58427a4, tfo: false, udp: true}
 - {name: 🇷🇺 RUS - V2Link, server: host-0061.v2fastlink.com, port: 19009, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a52ceef-53cc-4f22-9a38-677de58427a4, tfo: false, udp: true}
 - {name: 🇦🇷 Argentina - V2Link, server: host-062.v2fastlink.com, port: 19010, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9a52ceef-53cc-4f22-9a38-677de58427a4, tfo: false, udp: true}
