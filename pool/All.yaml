@@ -60,4 +60,3 @@ proxies:
 - {name: 🇨🇭 Switzerland/瑞士 - V2Link, server: host-059.v2fastlink.com, port: 19006, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 6d35ff58-417b-4299-b4bb-ff7ded975ac1, tfo: false, udp: true}
 - {name: 🇹🇷 Turkey/土耳其 - V2Link, server: host-060.v2fastlink.com, port: 19008, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 6d35ff58-417b-4299-b4bb-ff7ded975ac1, tfo: false, udp: true}
 - {name: 🇺🇦 Ukraina/乌克兰 - V2Link, server: host-0061.v2fastlink.com, port: 19009, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 6d35ff58-417b-4299-b4bb-ff7ded975ac1, tfo: false, udp: true}
-- {name: 🇦🇷 Argentina/阿根廷 - V2Link, server: host-062.v2fastlink.com, port: 19010, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 6d35ff58-417b-4299-b4bb-ff7ded975ac1, tfo: false, udp: true}
