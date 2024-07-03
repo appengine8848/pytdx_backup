@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 诚招合作代理推广- 此节点限时不计费 10天 - V2Link, server: bulletin.v2link.cloud, port: 10086, client-fingerprint: chrome, type: vmess, uuid: 54053a2c-5233-4507-a288-3ecbf4e753cc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
+- {name: 诚招合作代理推广 - V2Link, server: bulletin.v2link.cloud, port: 10086, client-fingerprint: chrome, type: vmess, uuid: 54053a2c-5233-4507-a288-3ecbf4e753cc, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
 - {name: 🇭🇰 Hong Kong 01 - V2Link, server: host-001.v2fastlink.com, port: 30501, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 54053a2c-5233-4507-a288-3ecbf4e753cc, tfo: false, udp: true}
 - {name: 🇭🇰 Hong Kong 02 - V2Link, server: host-0002.v2fastlink.com, port: 30502, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 54053a2c-5233-4507-a288-3ecbf4e753cc, tfo: false, udp: true}
 - {name: 🇭🇰 Hong Kong 03 - V2Link, server: host-0003.v2fastlink.com, port: 30503, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 54053a2c-5233-4507-a288-3ecbf4e753cc, tfo: false, udp: true}
