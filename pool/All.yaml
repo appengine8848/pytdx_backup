@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 'ℹ️ [此公告节点 正常上网请选择其他节点] 诚招合作代理推广 30%返利 - V2Link', server: bulletin.v2link.cloud, port: 10086, client-fingerprint: chrome, type: vmess, uuid: 9239a2a7-e727-4fce-8fa5-6c449dbeb17c, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
-- {name: 🇯🇵 Japan 06 - V2Link, server: host-016.v2fastlink.com, port: 30606, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 9239a2a7-e727-4fce-8fa5-6c449dbeb17c, tfo: false, udp: true}
+- {name: 'ℹ️ [此公告节点 正常上网请选择其他节点] 诚招合作代理推广 30%返利 - V2Link', server: bulletin.v2link.cloud, port: 10086, client-fingerprint: chrome, type: vmess, uuid: 81bd4a97-cb08-4a1a-a0cb-4a9652f29c66, alterId: 0, cipher: auto, tls: false, tfo: false, skip-cert-verify: true, network: ws, ws-opts: {path: /v2dassa, headers: {Host: free.v2aff.link}}, udp: true}
+- {name: 🇯🇵 Japan 06 - V2Link, server: host-016.v2fastlink.com, port: 30606, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: 81bd4a97-cb08-4a1a-a0cb-4a9652f29c66, tfo: false, udp: true}
