@@ -1,27 +1,27 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ ❤官网｜SingLinkVPN.com - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: ℹ️ ❤注册免费送套餐 - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: ℹ️ ❤购买Pro计划更快速 - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇭🇰 香港 - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇹🇼 台湾 - 星连, server: tw01.dns-node.top, port: 45571, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇯🇵 日本 - 星连, server: jp01.dns-node.top, port: 45612, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇰🇷 韩国 - 星连, server: jp01.dns-node.top, port: 45572, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇸🇬 新加坡 - 星连, server: sg04.dns-node.top, port: 45609, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇺🇸 美国 - 星连, server: us01.dns-node.top, port: 45581, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇬🇧 英国 - 星连, server: uk01.dns-node.top, port: 45615, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇲🇾 马来西亚 - 星连, server: sg04.dns-node.top, port: 45610, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇮🇩 印度尼西亚 - 星连, server: sg03.dns-node.top, port: 45608, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇦🇺 澳大利亚 - 星连, server: sg03.dns-node.top, port: 45607, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇵🇰 巴基斯坦 - 星连, server: sg03.dns-node.top, port: 45800, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇦🇹 奥地利 - 星连, server: eu.dns-node.top, port: 43800, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇪🇬 埃及 - 星连, server: eu.dns-node.top, port: 45595, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇫🇷 法国 - 星连, server: eu.dns-node.top, port: 45597, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇮🇳 印度 - 星连, server: eu.dns-node.top, port: 45598, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇳🇬 尼日利亚 - 星连, server: eu.dns-node.top, port: 45601, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇹🇷 土耳其 - 星连, server: eu.dns-node.top, port: 45602, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
-- {name: 🇧🇷 巴西 - 星连, server: us03.dns-node.top, port: 45585, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 8f46e75c-e47f-4e07-8cd3-fc9402bb53fe, tfo: false, udp: true}
+- {name: ℹ️ ❤官网｜SingLinkVPN.com - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: ℹ️ ❤注册免费送套餐 - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: ℹ️ ❤购买Pro计划更快速 - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇭🇰 香港 - 星连, server: hkg01.dns-node.top, port: 45573, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇹🇼 台湾 - 星连, server: tw01.dns-node.top, port: 45571, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇯🇵 日本 - 星连, server: jp01.dns-node.top, port: 45612, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇰🇷 韩国 - 星连, server: jp01.dns-node.top, port: 45572, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇸🇬 新加坡 - 星连, server: sg04.dns-node.top, port: 45609, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇺🇸 美国 - 星连, server: us01.dns-node.top, port: 45581, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇬🇧 英国 - 星连, server: uk01.dns-node.top, port: 45615, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇲🇾 马来西亚 - 星连, server: sg04.dns-node.top, port: 45610, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇮🇩 印度尼西亚 - 星连, server: sg03.dns-node.top, port: 45608, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇦🇺 澳大利亚 - 星连, server: sg03.dns-node.top, port: 45607, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇵🇰 巴基斯坦 - 星连, server: sg03.dns-node.top, port: 45800, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇦🇹 奥地利 - 星连, server: eu.dns-node.top, port: 43800, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇪🇬 埃及 - 星连, server: eu.dns-node.top, port: 45595, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇫🇷 法国 - 星连, server: eu.dns-node.top, port: 45597, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇮🇳 印度 - 星连, server: eu.dns-node.top, port: 45598, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇳🇬 尼日利亚 - 星连, server: eu.dns-node.top, port: 45601, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇹🇷 土耳其 - 星连, server: eu.dns-node.top, port: 45602, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
+- {name: 🇧🇷 巴西 - 星连, server: us03.dns-node.top, port: 45585, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 825a973b-ca96-4a3c-aa84-24b8ef7f81ac, tfo: false, udp: true}
 - &id001 {name: 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 15558, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: 1m23sddsc4532r, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: be5be108996.download.windowsupdate.com}, udp: true}
 - &id002 {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 803, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: QHPy2u, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: be5be108996.download.windowsupdate.com}, udp: true}
 - &id003 {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 806, client-fingerprint: chrome, type: ss, cipher: aes-128-gcm, password: QHPy2u, tfo: false, plugin: obfs, plugin-opts: {mode: http, host: be5be108996.download.windowsupdate.com}, udp: true}
