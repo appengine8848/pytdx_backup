@@ -1,30 +1,30 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇨🇳 CN-TaiBei-01 - 脉冲云, server: gyjd.yy9866.com, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇨🇳 CN-TaiBei-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇫🇷 FR-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇲🇾 MY-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇦🇺 AU-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇳🇱 NL-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇨🇦 CA-Toronto - 脉冲云, server: gyjd.yy9866.com, port: 28322, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇬🇧 GB-London - 脉冲云, server: gyjd.yy9866.com, port: 45092, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇪🇸 ES-Madrid - 脉冲云, server: gyjd.yy9866.com, port: 34502, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇮🇹 IT-Milan - 脉冲云, server: gyjd.yy9866.com, port: 39062, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇦🇹 AT-Vienna - 脉冲云, server: gyjd.yy9866.com, port: 23896, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇩🇪 DE-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: 919a5680-d54c-4a29-884d-f15b3db44a90, udp: true}
-- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 919a5680-d54c-4a29-884d-f15b3db44a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 919a5680-d54c-4a29-884d-f15b3db44a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 919a5680-d54c-4a29-884d-f15b3db44a90, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 HK-wap(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 49763, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇭🇰 HK2-wap(官网:maichongvpn.com) - 脉冲云, server: gyjd.yy9866.com, port: 48388, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇨🇳 CN-TaiBei-01 - 脉冲云, server: gyjd.yy9866.com, port: 21525, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇨🇳 CN-TaiBei-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21589, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇸🇬 Singapore-01-st - 脉冲云, server: gyjd.yy9866.com, port: 8965, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇸🇬 Singapore-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 29653, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇯🇵 JP-Tokyo-01 - 脉冲云, server: gyjd.yy9866.com, port: 48917, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇯🇵 JP-Tokyo-wap-02 - 脉冲云, server: gyjd.yy9866.com, port: 48999, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇺🇸 US-Los Angeles-01 - 脉冲云, server: gyjd.yy9866.com, port: 21000, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇺🇸 US-Los Angeles-02-wap - 脉冲云, server: gyjd.yy9866.com, port: 21012, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇫🇷 FR-Paris - 脉冲云, server: gyjd.yy9866.com, port: 16947, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇲🇾 MY-Malaysia-PQ - 脉冲云, server: gyjd.yy9866.com, port: 37681, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇦🇺 AU-Sydney - 脉冲云, server: gyjd.yy9866.com, port: 39263, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇳🇱 NL-Amsterdam - 脉冲云, server: gyjd.yy9866.com, port: 23262, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇨🇦 CA-Toronto - 脉冲云, server: gyjd.yy9866.com, port: 28322, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇬🇧 GB-London - 脉冲云, server: gyjd.yy9866.com, port: 45092, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇪🇸 ES-Madrid - 脉冲云, server: gyjd.yy9866.com, port: 34502, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇮🇹 IT-Milan - 脉冲云, server: gyjd.yy9866.com, port: 39062, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇦🇹 AT-Vienna - 脉冲云, server: gyjd.yy9866.com, port: 23896, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇩🇪 DE-Nuremberg - 脉冲云, server: gyjd.yy9866.com, port: 22425, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇰🇷 KR-Seoul - 脉冲云, server: gyjd.yy9866.com, port: 27828, type: ss, cipher: chacha20-ietf-poly1305, password: 1e3ce013-16a0-484f-88e6-090786c5eccb, udp: true}
+- {name: 🇭🇰 AK香港-新疆国外节点 - 脉冲云, server: 45.207.156.60, port: 13333, type: vmess, uuid: 1e3ce013-16a0-484f-88e6-090786c5eccb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 1e3ce013-16a0-484f-88e6-090786c5eccb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 1e3ce013-16a0-484f-88e6-090786c5eccb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: ℹ️ 迅云跳转域名：xyjs.app - 迅云加速, server: mo.xunyunnode.sbs, port: 38763, type: ss, cipher: chacha20-ietf-poly1305, password: 90dae428-576d-4b15-baac-de5625b474e3, udp: true}
 - {name: 🇯🇵 日本01 - 迅云加速, server: mo.xunyunnode.sbs, port: 38763, type: ss, cipher: chacha20-ietf-poly1305, password: 90dae428-576d-4b15-baac-de5625b474e3, udp: true}
 - {name: 🇯🇵 日本02 - 迅云加速, server: abc.xunyunnode.sbs, port: 16720, type: ss, cipher: chacha20-ietf-poly1305, password: 90dae428-576d-4b15-baac-de5625b474e3, udp: true}
@@ -247,58 +247,58 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: d0e26112422.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: d0e26112422.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: d0e26112422.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 香港 - 星连VPN, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇹🇼 台湾 - 星连VPN, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇯🇵 日本 - 星连VPN, server: jp01.dns-node.top, port: 45612, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇰🇷 韩国 - 星连VPN, server: jp01.dns-node.top, port: 45572, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇸🇬 新加坡 - 星连VPN, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇲🇲 缅甸 - 星连VPN, server: sg03.dns-node.top, port: 46333, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇲🇳 蒙古 - 星连VPN, server: sg03.dns-node.top, port: 46334, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇰🇭 柬埔寨 - 星连VPN, server: sg03.dns-node.top, port: 46335, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇧🇩 孟加拉国 - 星连VPN, server: sg04.dns-node.top, port: 46338, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇰🇿 哈萨克斯坦 - 星连VPN, server: sg04.dns-node.top, port: 46339, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇦🇪 阿联酋 - 星连VPN, server: sg04.dns-node.top, port: 46340, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇺🇸 美国 - 星连VPN, server: us01.dns-node.top, port: 45581, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇬🇧 英国 - 星连VPN, server: uk01.dns-node.top, port: 45615, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇲🇾 马来西亚 - 星连VPN, server: sg04.dns-node.top, port: 45610, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇮🇩 印度尼西亚 - 星连VPN, server: sg03.dns-node.top, port: 45608, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇳🇿 新西兰 - 星连VPN, server: sg04.dns-node.top, port: 45611, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇦🇺 澳大利亚 - 星连VPN, server: sg03.dns-node.top, port: 45607, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇵🇰 巴基斯坦 - 星连VPN, server: sg03.dns-node.top, port: 45800, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇿🇦 南非 - 星连VPN, server: de01.dns-node.top, port: 46102, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇩🇪 德国 - 星连VPN, server: eu.dns-node.top, port: 45594, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇪🇬 埃及 - 星连VPN, server: eu.dns-node.top, port: 45595, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇪🇸 西班牙 - 星连VPN, server: de01.dns-node.top, port: 45596, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇫🇷 法国 - 星连VPN, server: eu.dns-node.top, port: 45597, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇮🇳 印度 - 星连VPN, server: eu.dns-node.top, port: 45598, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇮🇹 意大利 - 星连VPN, server: de01.dns-node.top, port: 45599, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇵🇭 菲律宾 - 星连VPN, server: sg03.dns-node.top, port: 45661, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇳🇬 尼日利亚 - 星连VPN, server: eu.dns-node.top, port: 45601, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇹🇷 土耳其 - 星连VPN, server: eu.dns-node.top, port: 45602, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇺🇦 乌克兰 - 星连VPN, server: de01.dns-node.top, port: 45603, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇦🇷 阿根廷 - 星连VPN, server: us03.dns-node.top, port: 45583, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇻🇳 越南 - 星连VPN, server: sg04.dns-node.top, port: 46115, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇧🇷 巴西 - 星连VPN, server: us03.dns-node.top, port: 45585, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇨🇦 加拿大 - 星连VPN, server: us03.dns-node.top, port: 45586, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇧🇪 比利时 - 星连VPN, server: eu2.dns-node.top, port: 46301, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇩🇰 丹麦 - 星连VPN, server: eu2.dns-node.top, port: 46302, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇫🇮 芬兰 - 星连VPN, server: eu2.dns-node.top, port: 46303, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇭🇷 克罗地亚 - 星连VPN, server: eu2.dns-node.top, port: 46304, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇸🇪 瑞典 - 星连VPN, server: eu2.dns-node.top, port: 46305, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇬🇷 希腊 - 星连VPN, server: eu2.dns-node.top, port: 46306, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇮🇸 冰岛 - 星连VPN, server: eu2.dns-node.top, port: 46307, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇱🇹 立陶宛 - 星连VPN, server: eu2.dns-node.top, port: 46309, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇲🇽 墨西哥 - 星连VPN, server: us_nord.dns-node.top, port: 45590, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇳🇱 荷兰 - 星连VPN, server: eu3.dns-node.top, port: 46311, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇵🇱 波兰 - 星连VPN, server: eu3.dns-node.top, port: 46316, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇳🇴 挪威 - 星连VPN, server: eu3.dns-node.top, port: 46313, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇵🇹 葡萄牙 - 星连VPN, server: eu3.dns-node.top, port: 46314, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇨🇭 瑞士 - 星连VPN, server: eu3.dns-node.top, port: 46315, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇲🇦 摩洛哥 - 星连VPN, server: eu3.dns-node.top, port: 46317, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇰🇪 肯尼亚 - 星连VPN, server: eu3.dns-node.top, port: 46318, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: ℹ️ 开曼群岛 - 星连VPN, server: us04.dns-node.top, port: 46319, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇵🇦 巴拿马 - 星连VPN, server: us04.dns-node.top, port: 46320, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
-- {name: 🇺🇾 乌拉圭 - 星连VPN, server: us04.dns-node.top, port: 46321, type: ss, cipher: aes-128-gcm, password: 6f004b2f-d601-49c5-bc29-fa6b7279b85d, udp: true}
+- {name: 🇭🇰 香港 - 星连VPN, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇹🇼 台湾 - 星连VPN, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇯🇵 日本 - 星连VPN, server: jp01.dns-node.top, port: 45612, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇰🇷 韩国 - 星连VPN, server: jp01.dns-node.top, port: 45572, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇸🇬 新加坡 - 星连VPN, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇲🇲 缅甸 - 星连VPN, server: sg03.dns-node.top, port: 46333, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇲🇳 蒙古 - 星连VPN, server: sg03.dns-node.top, port: 46334, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇰🇭 柬埔寨 - 星连VPN, server: sg03.dns-node.top, port: 46335, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇧🇩 孟加拉国 - 星连VPN, server: sg04.dns-node.top, port: 46338, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇰🇿 哈萨克斯坦 - 星连VPN, server: sg04.dns-node.top, port: 46339, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇦🇪 阿联酋 - 星连VPN, server: sg04.dns-node.top, port: 46340, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇺🇸 美国 - 星连VPN, server: us01.dns-node.top, port: 45581, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇬🇧 英国 - 星连VPN, server: uk01.dns-node.top, port: 45615, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇲🇾 马来西亚 - 星连VPN, server: sg04.dns-node.top, port: 45610, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇮🇩 印度尼西亚 - 星连VPN, server: sg03.dns-node.top, port: 45608, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇳🇿 新西兰 - 星连VPN, server: sg04.dns-node.top, port: 45611, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇦🇺 澳大利亚 - 星连VPN, server: sg03.dns-node.top, port: 45607, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇵🇰 巴基斯坦 - 星连VPN, server: sg03.dns-node.top, port: 45800, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇿🇦 南非 - 星连VPN, server: de01.dns-node.top, port: 46102, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇩🇪 德国 - 星连VPN, server: eu.dns-node.top, port: 45594, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇪🇬 埃及 - 星连VPN, server: eu.dns-node.top, port: 45595, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇪🇸 西班牙 - 星连VPN, server: de01.dns-node.top, port: 45596, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇫🇷 法国 - 星连VPN, server: eu.dns-node.top, port: 45597, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇮🇳 印度 - 星连VPN, server: eu.dns-node.top, port: 45598, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇮🇹 意大利 - 星连VPN, server: de01.dns-node.top, port: 45599, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇵🇭 菲律宾 - 星连VPN, server: sg03.dns-node.top, port: 45661, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇳🇬 尼日利亚 - 星连VPN, server: eu.dns-node.top, port: 45601, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇹🇷 土耳其 - 星连VPN, server: eu.dns-node.top, port: 45602, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇺🇦 乌克兰 - 星连VPN, server: de01.dns-node.top, port: 45603, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇦🇷 阿根廷 - 星连VPN, server: us03.dns-node.top, port: 45583, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇻🇳 越南 - 星连VPN, server: sg04.dns-node.top, port: 46115, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇧🇷 巴西 - 星连VPN, server: us03.dns-node.top, port: 45585, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇨🇦 加拿大 - 星连VPN, server: us03.dns-node.top, port: 45586, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇧🇪 比利时 - 星连VPN, server: eu2.dns-node.top, port: 46301, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇩🇰 丹麦 - 星连VPN, server: eu2.dns-node.top, port: 46302, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇫🇮 芬兰 - 星连VPN, server: eu2.dns-node.top, port: 46303, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇭🇷 克罗地亚 - 星连VPN, server: eu2.dns-node.top, port: 46304, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇸🇪 瑞典 - 星连VPN, server: eu2.dns-node.top, port: 46305, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇬🇷 希腊 - 星连VPN, server: eu2.dns-node.top, port: 46306, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇮🇸 冰岛 - 星连VPN, server: eu2.dns-node.top, port: 46307, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇱🇹 立陶宛 - 星连VPN, server: eu2.dns-node.top, port: 46309, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇲🇽 墨西哥 - 星连VPN, server: us_nord.dns-node.top, port: 45590, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇳🇱 荷兰 - 星连VPN, server: eu3.dns-node.top, port: 46311, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇵🇱 波兰 - 星连VPN, server: eu3.dns-node.top, port: 46316, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇳🇴 挪威 - 星连VPN, server: eu3.dns-node.top, port: 46313, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇵🇹 葡萄牙 - 星连VPN, server: eu3.dns-node.top, port: 46314, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇨🇭 瑞士 - 星连VPN, server: eu3.dns-node.top, port: 46315, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇲🇦 摩洛哥 - 星连VPN, server: eu3.dns-node.top, port: 46317, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇰🇪 肯尼亚 - 星连VPN, server: eu3.dns-node.top, port: 46318, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: ℹ️ 开曼群岛 - 星连VPN, server: us04.dns-node.top, port: 46319, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇵🇦 巴拿马 - 星连VPN, server: us04.dns-node.top, port: 46320, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
+- {name: 🇺🇾 乌拉圭 - 星连VPN, server: us04.dns-node.top, port: 46321, type: ss, cipher: aes-128-gcm, password: 2d3252c0-23b1-440e-a8e5-1206f1c75c49, udp: true}
 - {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: be6e7758-ae19-3f63-9809-b7a25651978e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: be6e7758-ae19-3f63-9809-b7a25651978e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: be6e7758-ae19-3f63-9809-b7a25651978e, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
