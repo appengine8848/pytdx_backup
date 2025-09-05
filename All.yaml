@@ -1,42 +1,42 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
-- {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: f9960037-139b-4370-a694-b03ea30cc85f, udp: true}
+- {name: ℹ️ 无法连接请到官网导入订阅更新 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: ℹ️ 试用1小时 请到官网新购套餐 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇭🇰 ss(广移)香港1 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇭🇰 ss(广移)香港2 - 雷达, server: ldu.izenny.com, port: 34061, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 1 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇸🇬 ss(广移)新加坡 2 - 雷达, server: ldu.izenny.com, port: 28063, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇯🇵 ss(广移)日本1 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇯🇵 ss(广移)日本2 - 雷达, server: ldu.izenny.com, port: 10589, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇯🇵 ss(广移)日本4 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇯🇵 ss(广移)日本3 - 雷达, server: ldu.izenny.com, port: 57927, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇼 ss(广移)台湾1 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2 - 雷达, server: ldu.izenny.com, port: 18148, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-1 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇼 ss(广移)台湾2-2 - 雷达, server: ldu.izenny.com, port: 43076, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇺🇸 ss(广移)美国1 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇺🇸 ss(广移)美国2 - 雷达, server: ldu.izenny.com, port: 46197, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-1 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇺🇸 ss(广移)美国2-2 - 雷达, server: ldu.izenny.com, port: 12589, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇰🇷 ss(广移)韩国1 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇰🇷 ss(广移)韩国2 - 雷达, server: ldu.izenny.com, port: 41431, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇲🇾 ss(广移)马来西亚1 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇲🇾 ss(广移)马来西亚2 - 雷达, server: ldu.izenny.com, port: 13828, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇮🇱 ss(广移)以色列1 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇮🇱 ss(广移)以色列2 - 雷达, server: ldu.izenny.com, port: 18140, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇮🇳 ss(广移)印度1 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇮🇳 ss(广移)印度2 - 雷达, server: ldu.izenny.com, port: 34411, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇷 ss(广移)土耳其1 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇷 ss(广移)土耳其2 - 雷达, server: ldu.izenny.com, port: 33744, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇮🇸 ss(广移)冰岛1 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇮🇸 ss(广移)冰岛2 - 雷达, server: ldu.izenny.com, port: 18244, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇧🇷 ss(广移) 巴西1 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇧🇷 ss(广移)巴西2 - 雷达, server: ldu.izenny.com, port: 55936, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇲🇽 ss(广移)墨西哥1 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇲🇽 ss(广移)墨西哥2 - 雷达, server: ldu.izenny.com, port: 20149, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇭 ss(广移)泰国1 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
+- {name: 🇹🇭 ss(广移)泰国2 - 雷达, server: ldu.izenny.com, port: 39037, type: ss, cipher: chacha20-ietf-poly1305, password: 5dbced3b-cd50-4cc8-a975-50ea0ed6e431, udp: true}
 - {name: 🇶🇦 Video 卡塔尔A-标准 - AyucLouD-Services, server: driftsdds.unclemanco.com, port: 15558, type: ss, cipher: aes-128-gcm, password: 1m23sddsc4532r, plugin: obfs, plugin-opts: {mode: http, host: bfb5b113137.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国01-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 803, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: bfb5b113137.download.windowsupdate.com}, udp: true}
 - {name: 🇰🇷 Game 韩国02-标准 - AyucLouD-Services, server: canvasdxs.unclemanco.com, port: 806, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: bfb5b113137.download.windowsupdate.com}, udp: true}
@@ -136,11 +136,11 @@ proxies:
 - {name: 🇦🇺 Web 澳大利亚I-标准 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 9044, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: bfb5b113137.download.windowsupdate.com}, udp: true}
 - {name: 🇮🇪 Web 爱尔兰I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 36201, type: ss, cipher: aes-128-gcm, password: Vdssf.mj/2Zr, plugin: obfs, plugin-opts: {mode: http, host: bfb5b113137.download.windowsupdate.com}, udp: true}
 - {name: 🇳🇬 Web 尼日利亚I-原生 - AyucLouD-Services, server: echosdj.unclemanco.com, port: 10021, type: ss, cipher: aes-128-gcm, password: aa2x2sa2/1a, plugin: obfs, plugin-opts: {mode: http, host: bfb5b113137.download.windowsupdate.com}, udp: true}
-- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: 23e1d56e-df88-483b-8fc2-338727edd93e, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: 23e1d56e-df88-483b-8fc2-338727edd93e, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: 23e1d56e-df88-483b-8fc2-338727edd93e, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: 23e1d56e-df88-483b-8fc2-338727edd93e, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: 23e1d56e-df88-483b-8fc2-338727edd93e, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点 - 新云游, server: 103.137.63.77, port: 443, type: trojan, password: bd527350-67dd-4ba7-915d-cef8b39768ae, sni: node1.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点2 - 新云游, server: 118.232.199.29, port: 443, type: trojan, password: bd527350-67dd-4ba7-915d-cef8b39768ae, sni: node2.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾高速节点3 - 新云游, server: 118.232.199.14, port: 443, type: trojan, password: bd527350-67dd-4ba7-915d-cef8b39768ae, sni: node3.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国高速节点1 - 新云游, server: 144.34.178.66, port: 1443, type: trojan, password: bd527350-67dd-4ba7-915d-cef8b39768ae, sni: node4.yuntongclouds.com, skip-cert-verify: true, udp: true}
+- {name: 🇨🇳 中国联通节点1 - 新云游, server: 115.231.220.33, port: 5443, type: trojan, password: bd527350-67dd-4ba7-915d-cef8b39768ae, sni: nodecn1.jiayinetwork.es, skip-cert-verify: true, udp: true}
 - {name: ℹ️ www.mgjs.site最新域名，更新订阅 - MG Network, server: 3.mamamajd.site, port: 50003, type: vmess, uuid: f900babe-990a-32dd-8334-d3f7147c1cf2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: f900babe-990a-32dd-8334-d3f7147c1cf2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: f900babe-990a-32dd-8334-d3f7147c1cf2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -180,57 +180,57 @@ proxies:
 - {name: 🇸🇬 ST新加坡-新疆国外节点 - 脉冲云, server: 38.180.107.217, port: 13334, type: vmess, uuid: 57d477ee-6e72-4840-9fa6-7bfc790a80b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇭🇰 WAP香港-新疆国外节点 - 脉冲云, server: 46.20.109.234, port: 13335, type: vmess, uuid: 57d477ee-6e72-4840-9fa6-7bfc790a80b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇬🇧 OR英国-新疆国外节点 - 脉冲云, server: 79.72.95.9, port: 18419, type: vmess, uuid: 57d477ee-6e72-4840-9fa6-7bfc790a80b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 香港 - 星连VPN, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇹🇼 台湾 - 星连VPN, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇯🇵 日本 - 星连VPN, server: jp01.dns-node.top, port: 45612, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇰🇷 韩国 - 星连VPN, server: jp01.dns-node.top, port: 45572, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇸🇬 新加坡 - 星连VPN, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇲🇲 缅甸 - 星连VPN, server: sg03.dns-node.top, port: 46333, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇲🇳 蒙古 - 星连VPN, server: sg03.dns-node.top, port: 46334, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇰🇭 柬埔寨 - 星连VPN, server: sg03.dns-node.top, port: 46335, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇧🇩 孟加拉国 - 星连VPN, server: sg04.dns-node.top, port: 46338, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇰🇿 哈萨克斯坦 - 星连VPN, server: sg04.dns-node.top, port: 46339, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇦🇪 阿联酋 - 星连VPN, server: sg04.dns-node.top, port: 46340, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇺🇸 美国 - 星连VPN, server: us01.dns-node.top, port: 45581, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇬🇧 英国 - 星连VPN, server: uk01.dns-node.top, port: 45615, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇲🇾 马来西亚 - 星连VPN, server: sg04.dns-node.top, port: 45610, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇮🇩 印度尼西亚 - 星连VPN, server: sg03.dns-node.top, port: 45608, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇳🇿 新西兰 - 星连VPN, server: sg04.dns-node.top, port: 45611, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇦🇺 澳大利亚 - 星连VPN, server: sg03.dns-node.top, port: 45607, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇵🇰 巴基斯坦 - 星连VPN, server: sg03.dns-node.top, port: 45800, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇿🇦 南非 - 星连VPN, server: de01.dns-node.top, port: 46102, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇩🇪 德国 - 星连VPN, server: eu.dns-node.top, port: 45594, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇪🇬 埃及 - 星连VPN, server: eu.dns-node.top, port: 45595, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇪🇸 西班牙 - 星连VPN, server: de01.dns-node.top, port: 45596, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇫🇷 法国 - 星连VPN, server: eu.dns-node.top, port: 45597, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇮🇳 印度 - 星连VPN, server: eu.dns-node.top, port: 45598, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇮🇹 意大利 - 星连VPN, server: de01.dns-node.top, port: 45599, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇵🇭 菲律宾 - 星连VPN, server: sg03.dns-node.top, port: 45661, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇳🇬 尼日利亚 - 星连VPN, server: eu.dns-node.top, port: 45601, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇹🇷 土耳其 - 星连VPN, server: eu.dns-node.top, port: 45602, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇺🇦 乌克兰 - 星连VPN, server: de01.dns-node.top, port: 45603, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇦🇷 阿根廷 - 星连VPN, server: us03.dns-node.top, port: 45583, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇻🇳 越南 - 星连VPN, server: sg04.dns-node.top, port: 46115, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇧🇷 巴西 - 星连VPN, server: us03.dns-node.top, port: 45585, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇨🇦 加拿大 - 星连VPN, server: us03.dns-node.top, port: 45586, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇧🇪 比利时 - 星连VPN, server: eu2.dns-node.top, port: 46301, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇩🇰 丹麦 - 星连VPN, server: eu2.dns-node.top, port: 46302, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇫🇮 芬兰 - 星连VPN, server: eu2.dns-node.top, port: 46303, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇸🇪 瑞典 - 星连VPN, server: eu2.dns-node.top, port: 46305, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇬🇷 希腊 - 星连VPN, server: eu2.dns-node.top, port: 46306, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇮🇸 冰岛 - 星连VPN, server: eu2.dns-node.top, port: 46307, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇱🇹 立陶宛 - 星连VPN, server: eu2.dns-node.top, port: 46309, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇲🇽 墨西哥 - 星连VPN, server: us_nord.dns-node.top, port: 45590, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇳🇱 荷兰 - 星连VPN, server: eu3.dns-node.top, port: 46311, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇵🇱 波兰 - 星连VPN, server: eu3.dns-node.top, port: 46316, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇳🇴 挪威 - 星连VPN, server: eu3.dns-node.top, port: 46313, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇵🇹 葡萄牙 - 星连VPN, server: eu3.dns-node.top, port: 46314, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇨🇭 瑞士 - 星连VPN, server: eu3.dns-node.top, port: 46315, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇲🇦 摩洛哥 - 星连VPN, server: eu3.dns-node.top, port: 46317, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇰🇪 肯尼亚 - 星连VPN, server: eu3.dns-node.top, port: 46318, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: ℹ️ 开曼群岛 - 星连VPN, server: us04.dns-node.top, port: 46319, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇵🇦 巴拿马 - 星连VPN, server: us04.dns-node.top, port: 46320, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
-- {name: 🇺🇾 乌拉圭 - 星连VPN, server: us04.dns-node.top, port: 46321, type: ss, cipher: aes-128-gcm, password: 48ef8ab1-875e-4bde-aa0e-07065b9ddddf, udp: true}
+- {name: 🇭🇰 香港 - 星连VPN, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇹🇼 台湾 - 星连VPN, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇯🇵 日本 - 星连VPN, server: jp01.dns-node.top, port: 45612, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇰🇷 韩国 - 星连VPN, server: jp01.dns-node.top, port: 45572, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇸🇬 新加坡 - 星连VPN, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇲🇲 缅甸 - 星连VPN, server: sg03.dns-node.top, port: 46333, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇲🇳 蒙古 - 星连VPN, server: sg03.dns-node.top, port: 46334, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇰🇭 柬埔寨 - 星连VPN, server: sg03.dns-node.top, port: 46335, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇧🇩 孟加拉国 - 星连VPN, server: sg04.dns-node.top, port: 46338, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇰🇿 哈萨克斯坦 - 星连VPN, server: sg04.dns-node.top, port: 46339, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇦🇪 阿联酋 - 星连VPN, server: sg04.dns-node.top, port: 46340, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇺🇸 美国 - 星连VPN, server: us01.dns-node.top, port: 45581, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇬🇧 英国 - 星连VPN, server: uk01.dns-node.top, port: 45615, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇲🇾 马来西亚 - 星连VPN, server: sg04.dns-node.top, port: 45610, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇮🇩 印度尼西亚 - 星连VPN, server: sg03.dns-node.top, port: 45608, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇳🇿 新西兰 - 星连VPN, server: sg04.dns-node.top, port: 45611, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇦🇺 澳大利亚 - 星连VPN, server: sg03.dns-node.top, port: 45607, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇵🇰 巴基斯坦 - 星连VPN, server: sg03.dns-node.top, port: 45800, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇿🇦 南非 - 星连VPN, server: de01.dns-node.top, port: 46102, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇩🇪 德国 - 星连VPN, server: eu.dns-node.top, port: 45594, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇪🇬 埃及 - 星连VPN, server: eu.dns-node.top, port: 45595, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇪🇸 西班牙 - 星连VPN, server: de01.dns-node.top, port: 45596, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇫🇷 法国 - 星连VPN, server: eu.dns-node.top, port: 45597, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇮🇳 印度 - 星连VPN, server: eu.dns-node.top, port: 45598, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇮🇹 意大利 - 星连VPN, server: de01.dns-node.top, port: 45599, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇵🇭 菲律宾 - 星连VPN, server: sg03.dns-node.top, port: 45661, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇳🇬 尼日利亚 - 星连VPN, server: eu.dns-node.top, port: 45601, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇹🇷 土耳其 - 星连VPN, server: eu.dns-node.top, port: 45602, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇺🇦 乌克兰 - 星连VPN, server: de01.dns-node.top, port: 45603, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇦🇷 阿根廷 - 星连VPN, server: us03.dns-node.top, port: 45583, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇻🇳 越南 - 星连VPN, server: sg04.dns-node.top, port: 46115, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇧🇷 巴西 - 星连VPN, server: us03.dns-node.top, port: 45585, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇨🇦 加拿大 - 星连VPN, server: us03.dns-node.top, port: 45586, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇧🇪 比利时 - 星连VPN, server: eu2.dns-node.top, port: 46301, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇩🇰 丹麦 - 星连VPN, server: eu2.dns-node.top, port: 46302, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇫🇮 芬兰 - 星连VPN, server: eu2.dns-node.top, port: 46303, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇸🇪 瑞典 - 星连VPN, server: eu2.dns-node.top, port: 46305, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇬🇷 希腊 - 星连VPN, server: eu2.dns-node.top, port: 46306, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇮🇸 冰岛 - 星连VPN, server: eu2.dns-node.top, port: 46307, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇱🇹 立陶宛 - 星连VPN, server: eu2.dns-node.top, port: 46309, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇲🇽 墨西哥 - 星连VPN, server: us_nord.dns-node.top, port: 45590, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇳🇱 荷兰 - 星连VPN, server: eu3.dns-node.top, port: 46311, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇵🇱 波兰 - 星连VPN, server: eu3.dns-node.top, port: 46316, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇳🇴 挪威 - 星连VPN, server: eu3.dns-node.top, port: 46313, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇵🇹 葡萄牙 - 星连VPN, server: eu3.dns-node.top, port: 46314, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇨🇭 瑞士 - 星连VPN, server: eu3.dns-node.top, port: 46315, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇲🇦 摩洛哥 - 星连VPN, server: eu3.dns-node.top, port: 46317, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇰🇪 肯尼亚 - 星连VPN, server: eu3.dns-node.top, port: 46318, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: ℹ️ 开曼群岛 - 星连VPN, server: us04.dns-node.top, port: 46319, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇵🇦 巴拿马 - 星连VPN, server: us04.dns-node.top, port: 46320, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
+- {name: 🇺🇾 乌拉圭 - 星连VPN, server: us04.dns-node.top, port: 46321, type: ss, cipher: aes-128-gcm, password: a14ec045-f749-40a5-87fe-4f4cf98d65ed, udp: true}
 - {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, client-fingerprint: chrome, type: vmess, uuid: a10c4900-e57e-3e94-a4f3-eb68ae4fcab6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, client-fingerprint: chrome, type: vmess, uuid: a10c4900-e57e-3e94-a4f3-eb68ae4fcab6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, client-fingerprint: chrome, type: vmess, uuid: a10c4900-e57e-3e94-a4f3-eb68ae4fcab6, alterId: 0, cipher: auto, tls: true, tfo: false, skip-cert-verify: true, udp: true}
